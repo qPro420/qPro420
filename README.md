@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @qPro420 
+👋 Hello, I’m @qPro420 
 
 > About me
 - I'm a self-taught passionate Full-Stack Developer from New York 🗽
