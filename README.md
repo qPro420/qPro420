@@ -6,7 +6,6 @@
 - Full Stack Web Developer
 
 > Contact Info
-- 🔗 Feds.lol: https://feds.lol/qPro
-- 📲 Telegram: https://t.me/qPro420
+- 🔗 Socials: https://feds.lol/qPro
 - 📫 Discord: qPro#0001
 - 📝 Discord ID: 1021219681471840317
