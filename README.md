@@ -1,7 +1,7 @@
 👋 Hello, I’m @qPro420 
 
 > About me
-- I'm a self-taught passionate Full-Stack Developer from Rochester, New York 🗽
+- I'm a self-taught passionate Full-Stack Developer from New York 🗽
 - Discord Bot Developer
 - Full Stack Web Developer
 
